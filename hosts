@@ -25,6 +25,7 @@
 0.0.0.0 m.caba.codere.bet.ar
 0.0.0.0 m.mdz.codere.bet.ar
 0.0.0.0 codere.bet.ar
+0.0.0.0 bingos.codere.bet.ar
 0.0.0.0 www.codere.bet.ar
 0.0.0.0 www.jugadon.bet.ar
 0.0.0.0 cordoba.jugadon.bet.ar
@@ -86,3 +87,7 @@
 0.0.0.0 laneuquinaonline.bet.ar
 0.0.0.0 www.playuzu.bet.ar
 0.0.0.0 playuzu.bet.ar
+
+#Codere specific WS
+0.0.0.0 dga.pragmaticplaylive.net
+
